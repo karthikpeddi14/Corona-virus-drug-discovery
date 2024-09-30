@@ -1,0 +1,2 @@
+we use chembl datasets for this project, in this project we considered SARS corona virus variant, and using the data of different molecule's action on the target protein of corona virus, we trained our ML model, we got high accuracy using random forest
+, the target variable for this model is the pic50 value (potency), we test potency of a new molecule using this model by simply inputting its canonical smile notation.
